@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  #video {
+    width: 80%;
+    border: 2px solid #00796b;
+    border-radius: 12px;
+  }
+  
+  #output {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #00796b;
+  }
+  
+  #detected-objects {
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #004d40;
+    border-radius: 12px;
+    background-color: #e0f7fa;
+  }
+  
+  #target-object {
+    margin-top: 20px;
+    font-size: 1.2em;
+    padding: 8px;
+    border-radius: 8px;
+    border: 2px solid #00796b;
+    width: 70%;
+  }
+  
+  #message {
+    margin-top: 10px;
+    font-size: 1.5em;
+  }
+  
